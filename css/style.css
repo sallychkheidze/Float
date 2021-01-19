@@ -1,0 +1,35 @@
+.container {
+	width: 1088px;
+	height: 582px;
+	margin: 0 auto;
+}
+.left-top-wraper {
+	float: left;
+	width: 536px;
+	background-color: #F8F8F8:;
+}
+.right-top-wraper {
+	float: right;
+	width: 536px;
+	background-color: #F8F8F8:;
+}
+.left-bottom-wraper {
+	float: left;
+	width: 536px;
+	background-color: #F8F8F8:;
+}
+.right-bottom-wraper {
+	float: right;
+	width: 536px;
+	background-color: #F8F8F8:;
+}
+.clear {
+	clear: both;
+}
+.image-box {
+	float: left;
+}
+.text-box {
+	float: right;
+	width: 260px;
+}
