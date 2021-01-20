@@ -1,35 +1,128 @@
+/*section1*/
 .container {
 	width: 1088px;
-	height: 582px;
 	margin: 0 auto;
 }
-.left-top-wraper {
+.left-wraper {
 	float: left;
 	width: 536px;
-	background-color: #F8F8F8:;
+	background-color: #F8F8F8;
 }
-.right-top-wraper {
+.right-wraper {
 	float: right;
 	width: 536px;
-	background-color: #F8F8F8:;
-}
-.left-bottom-wraper {
-	float: left;
-	width: 536px;
-	background-color: #F8F8F8:;
-}
-.right-bottom-wraper {
-	float: right;
-	width: 536px;
-	background-color: #F8F8F8:;
+	background-color: #F8F8F8;
 }
 .clear {
 	clear: both;
 }
+.h3-box {
+	display:inline-block;
+	vertical-align: middle;
+	text-align: left;
+	color: #5863F8;
+	font-size: 14px;
+	padding-top: 37px;
+}
+.h2-box {
+	display: inline-block;
+	vertical-align: middle;
+	font-size: 18px;
+	padding-top: 57px;
+}
 .image-box {
 	float: left;
+	width: 168px;
 }
 .text-box {
 	float: right;
 	width: 260px;
+	vertical-align: middle;
+}
+.left1 {
+	float: left;
+	margin: 0 16px 16px 0;
+}
+.left2 {
+	float: left;
+	margin-right: 16px;
+}
+.right1 {
+	float: right;
+}
+.right2 {
+	float: right;
+	margin-top: 16px;
+
+}
+
+/*section2*/
+.box-wraper2 {
+	width: 1088px;
+	height: 747px;
+	margin: 0 auto;
+}
+.top-wraper {
+	float: left;
+	margin-bottom: 16px;
+}
+.bottom-wraper {
+	float: left;
+}
+.top1 {
+	float: left;
+	width: 352px;
+	height: 360px;
+	background-color: #F8F8F8;
+	margin: 0 16px 16px 0
+}
+.top2 {
+	float: left;
+	width: 352px;
+	height: 360px;
+	background-color: #F8F8F8;
+	margin-right: 16px;
+}
+.top3 {
+	float: left;
+	width: 352px;
+	height: 360px;
+	background-color: #F8F8F8;
+	
+}
+.bottom1 {
+	float: left;
+	width: 352px;
+	height: 360px;
+	background-color: #F8F8F8;
+	margin-right: 16px;
+}
+.bottom2 {
+	float: left;
+	width: 352px;
+	height: 360px;
+	background-color: #F8F8F8;
+	margin-right: 16px;
+}
+.bottom3 {
+	float: left;
+	width: 352px;
+	height: 360px;
+	background-color: #F8F8F8;
+}
+.h3-box1 {
+	display:inline-block;
+	vertical-align: middle;
+	text-align: center;
+	color: #5863F8;
+	font-size: 14px;
+}
+h1 {
+	float: left;
+	font-size: 44px;
+}
+.h2-box1 {
+	display: inline-block;
+	text-align: center;
+	font-size: 18px;
 }
